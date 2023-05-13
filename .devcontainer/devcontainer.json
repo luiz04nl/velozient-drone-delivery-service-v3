@@ -1,0 +1,15 @@
+{
+  "name": "Alpine Debug",
+  "dockerComposeFile": ["docker-compose.debug.yml"],
+  "service": "velozient-drone-delivery-service-v3-debug",
+  "workspaceFolder": "/usr/src/app",
+  "shutdownAction": "stopCompose",
+  "extensions": [
+    "ms-vscode-remote.remote-containers",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "editorconfig.editorconfig",
+    "jbockle.jbockle-format-files"
+  ]
+}

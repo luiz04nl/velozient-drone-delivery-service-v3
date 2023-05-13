@@ -1,0 +1,10 @@
+node_modules
+.env
+node_modules
+build
+dist
+coverage
+todo.txt
+
+src/output*
+# src/presentation/output*

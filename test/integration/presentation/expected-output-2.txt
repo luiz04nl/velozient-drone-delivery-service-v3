@@ -1,0 +1,13 @@
+***BEGIN OUTPUT FILE #2***
+[DroneA]
+Trip #1
+[LocationF], [LocationI]
+[DroneB]
+Trip #1
+[LocationA], [LocationD]
+Trip #2
+[LocationE], [LocationG], [LocationH], [LocationJ]
+[DroneC]
+Trip #1
+[LocationB], [LocationC]
+***END OUTPUT FILE #2***
